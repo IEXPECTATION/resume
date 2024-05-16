@@ -6,3 +6,15 @@
 - Major: Software Engineer
 - Email：wuchx19@gmail.com
 - phone number: +86 - 18154585061
+
+# Skills List
+
+TBD
+
+# Personal Projects
+
+TBD
+
+# Work Experience
+
+TBD
